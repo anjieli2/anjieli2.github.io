@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: Un thème pour Hugo on Ananke Fr</title>
+    <title>Ananke:Hugo在Ananke上的主题</title>
     <link>https://gohugo-theme-ananke.pages.dev/fr/</link>
-    <description>Recent content in Ananke: Un thème pour Hugo on Ananke Fr</description>
+    <description>Ananke的最新内容：Hugo on Ananke的主题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapitre I: La grande halle</title>
+      <title>第一章：大厅</title>
       <link>https://gohugo-theme-ananke.pages.dev/fr/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://gohugo-theme-ananke.pages.dev/fr/post/chapter-1/</guid>
-      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
+      <description>通常，我们使用假拉丁语文本（文本没有任何意义，它已经被修改），lorem ipsum或lipsum，因此可以用作文本d&amp；rsquo；等待。L&amp；rsquo；把它放在拉丁语的优点是L&amp；rsquo；操作员第一眼就知道D&amp；rsquo；查看包含这些行的页面n&amp；rsquo；无效，尤其是L&amp；rsquo；客户注意N&amp；rsquo；不受内容的干扰，它只关注L&amp；rsquo；图形方面。</description>
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>联系</title>
       <link>https://gohugo-theme-ananke.pages.dev/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gohugo-theme-ananke.pages.dev/fr/contact/</guid>
-      <description>Ceci est la page de contact en Français.
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Votre nom Adresse e-mail Une adresse e-mail est requise. Message </description>
+      <description>法国的联系方式。
+
+这是一个自定义简码的示例，您可以将其直接放入内容中。您需要在短代码中添加一个表单操作，以使其正常工作。查看Formspread以获得简单、免费的服务。
+
+Votre nom Adresse e-mail Une Adresse e-mail est requirese。消息</description>
     </item>
     
   </channel>
