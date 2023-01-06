@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我用Hugo构建的中文博客站点 on Ananke</title>
+    <title>我用Hugo构建的中文博客站点 </title>
     <link>https://gohugo-theme-ananke.pages.dev/</link>
-    <description>Recent content in 我用Hugo构建的中文博客站点 on Ananke</description>
+    <description>Ananke上的最新内容</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter VI: Esmeralda</title>
+      <title>第六章：埃斯梅拉达</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Chapter V: Quasimodo</title>
+      <title>第五章：卡西莫多</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
+      <title>第四章：雅克·科普诺大师</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
+      <title>第三章：红衣主教先生</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Chapter II: Pierre Gringoire</title>
+      <title>第二章：皮埃尔·格林戈伊</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
@@ -54,7 +54,7 @@
     </item>
     
     <item>
-      <title>Chapter I: The Grand Hall</title>
+      <title>第一章：大会堂</title>
       <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
@@ -64,7 +64,7 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于</title>
       <link>https://gohugo-theme-ananke.pages.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -73,7 +73,7 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>联系</title>
       <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

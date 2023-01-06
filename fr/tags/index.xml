@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ananke Fr</title>
+    <title>Ananke Fr上的标签</title>
     <link>https://gohugo-theme-ananke.pages.dev/fr/tags/</link>
-    <description>Recent content in Tags on Ananke Fr</description>
+    <description>Ananke Fr标签中的最新内容</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>scene</title>
+      <title>现场</title>
       <link>https://gohugo-theme-ananke.pages.dev/fr/tags/scene/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
